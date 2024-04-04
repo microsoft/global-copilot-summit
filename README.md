@@ -27,6 +27,25 @@ Registration: [Registration for Bengaluru event](https://www.meetup.com/microsof
 |  Vignesh 	|  Getting your enterprise ready for Microsoft 365 Copilot	| 12:30 - 13:00  	|
 |  Naren 	|  Security Intelligence without learning 	| 13:00 - 13:30  	|
 
+# Chennai
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/04b1d56b-54d1-4d9b-94af-9423711e77e5)
+
+📆 Saturday April 13th, 2024 <br/>
+🗺️ Microsoft Office - Chennai<br/>
+Registration: [Registration for Chennai event](https://www.meetup.com/azure-developer-community-chennai/events/299983913) <br/>
+
+## Agenda
+
+|  Speaker	Session 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Navneethan  	|   Welcome Note	|  10:00 - 10:30 	|
+| Kamal Shree  	|   Keynote	|  10:30 - 10:50 	|
+|  Bhargavi 	| Copilot studio: Your Creative Code Companion  	|  10:50 - 11:20 	|
+|  Break 	|   Break	|   Break	|
+|  Som M 	|  Vector search using Elasticsearch and Azure OpenAI model	|  11:40 - 12:10 	|
+| Dinesh  	|  What's new in PowerApps with M365 Copilot  	|  12:10 - 12:40 	|
+|  Ashish tiwari 	|  Question Answering on private data using Elasticsearch and Azure OpenAI	| 12:40 - 13:10  	|
+|  Karthikeyan VK 	|  Power Up Your Data: Navigating with Power BI Copilot 	| 13:10 - 13:40  	|
 
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
 Special thanks to our sponsorship team **[Elastic]([https://learn.microsoft.com/en-us/shows/reactor/](https://www.elastic.co/))**  , **[Rapid Circle India](www.rapidcircle.com)** , **[AIT Global](https://aitglobalindia.com/)** for supporting Global Copilot Summit. 👋
