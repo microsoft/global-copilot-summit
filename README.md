@@ -67,7 +67,7 @@ Registration: [Registration for Pune event](https://www.meetup.com/pune-tech-com
 |  AIT Global	|  TBD	| 12:40 - 13:10  	|
 
 # Gurgaon
-![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/83cf118e-39f3-4b23-82d8-1e2c5b2eb894)
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/13affd00-3d24-45aa-9b9a-288556b435b6)
 
 📆 Saturday April 27th, 2024 <br/>
 🗺️ Microsoft - Gurgaon<br/>
@@ -77,13 +77,13 @@ Registration: [Registration for Pune event](https://aka.ms/globalcopilotsummitre
 
 |  Speaker	Session 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
-| Nanddeep  	|   Welcome Note	|  10:00 - 10:30 	|
-| Smitha  	|   Build SharePoint Copilot with Microsoft Copilot Studio	|  10:30 - 10:50 	|
-|  Siddharth 	| Generative Answers on SharePoint List with Copilot Studio  	|  10:50 - 11:20 	|
+| Pratibha Misra  	|   AI-Powered Future of Work, Copilot for every Microsoft Cloud experience	|  10:00 - 10:30 	|
+| Jasleen Bakshi  	|   Pathways to use the Copilot development stack for building and extending generative AI solutions 	|  10:30 - 11:00 	|
+|  Nithin Asthana 	| Bring your own data to Copilot for Microsoft 365 with Azure Open AI   	|  11:0 - 11:30 	|
 |  Break 	|   Break	|   Break	|
-|  Vardham 	|  Building plugins for Microsoft 365 Copilot: Integrate with external data|  11:40 - 12:10 	|
-| Kunj  	|  TBD  	|  12:10 - 12:40 	|
-|  AIT Global	|  TBD	| 12:40 - 13:10  	|
+|  Mayank Bhardwaj 	|  Build a plugin to extend Microsoft 365 Copilot or low-code custom Copilot with Copilot Studio|  11:50 - 12:35 	|
+| Kapil Sapra  	|  Build / enhance a custom Copilot with pro-code with Azure AI Studio  	|  12:35 - 13:05 	|
+|  Anshuman Agarwal	|  Build custom copilot faster with GitHub Copilot	| 13:05 - 13:35  	|
 
 
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
