@@ -47,6 +47,26 @@ Registration: [Registration for Chennai event](https://www.meetup.com/azure-deve
 |  Ashish tiwari 	|  Question Answering on private data using Elasticsearch and Azure OpenAI	| 12:40 - 13:10  	|
 |  Karthikeyan VK 	|  Power Up Your Data: Navigating with Power BI Copilot 	| 13:10 - 13:40  	|
 
+# Pune
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/83cf118e-39f3-4b23-82d8-1e2c5b2eb894)
+
+📆 Saturday April 20th, 2024 <br/>
+🗺️ AIT Global - Pune<br/>
+Registration: [Registration for Pune event](https://aka.ms/globalcopilotsummitregistration) <br/>
+
+## Agenda
+
+|  Speaker	Session 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Nanddeep  	|   Welcome Note	|  10:00 - 10:30 	|
+| Smitha  	|   Build SharePoint Copilot with Microsoft Copilot Studio	|  10:30 - 10:50 	|
+|  Siddharth 	| Generative Answers on SharePoint List with Copilot Studio  	|  10:50 - 11:20 	|
+|  Break 	|   Break	|   Break	|
+|  Vardham 	|  Building plugins for Microsoft 365 Copilot: Integrate with external data|  11:40 - 12:10 	|
+| Kunj  	|  TBD  	|  12:10 - 12:40 	|
+|  AIT Global	|  TBD	| 12:40 - 13:10  	|
+
+
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
 Special thanks to our sponsorship team **[Elastic]([https://learn.microsoft.com/en-us/shows/reactor/](https://www.elastic.co/))**  , **[Rapid Circle India](www.rapidcircle.com)** , **[AIT Global](https://aitglobalindia.com/)** for supporting Global Copilot Summit. 👋
 <br/>
