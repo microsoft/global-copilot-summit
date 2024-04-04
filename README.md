@@ -15,6 +15,19 @@ Registration: [Registration for the event](https://aka.ms/globalcopilotsummitreg
 🗺️ Microsoft Reactor Center - Bengaluru<br/>
 Registration: [Registration for Bengaluru event](https://www.meetup.com/microsoft-reactor-bengaluru/events/300066018/) <br/>
 
+## Agenda
+
+|  Speaker	Session 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Kamal Shree  	|   Keynote	|  10:30 - 10:50 	|
+|  Arjun Menon 	| Unlocking the Full Potential of M365 Copilot with plugins  	|  10:50 - 11:20 	|
+|  Tobin Thomas 	|  Empowering every developer with Copilot for Microsoft 	|  11:20 - 11:50 	|
+|  Break 	|   Break	|   Break	|
+| Karody Lubna Abdul Rahman  	|  M365 and GitHub Copilot Overview 	|  12:00 - 12:30 	|
+|  Vignesh 	|  Getting your enterprise ready for Microsoft 365 Copilot	| 12:30 - 13:00  	|
+|  Naren 	|  Security Intelligence without learning 	| 13:00 - 13:30  	|
+
+
 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.
 
 ## Feedback ♻️
