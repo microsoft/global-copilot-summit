@@ -28,7 +28,8 @@ Registration: [Registration for Bengaluru event](https://www.meetup.com/microsof
 |  Naren 	|  Security Intelligence without learning 	| 13:00 - 13:30  	|
 
 
-Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.
+Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
+Special thanks to our sponsorship team **[Elastic](https://learn.microsoft.com/en-us/shows/reactor/)**  , **[Rapid Circle India](www.rapidcircle.com)** , **[AIT Global](https://aitglobalindia.com/)** for supporting Global Copilot Summit.<br/>
 
 ## Feedback ♻️
 We are excited to learn from you! Please share your experience and feedback with us: [Feedback Survey](https://forms.office.com/r/dN6PRkib99?origin=lprLink)
