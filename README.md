@@ -9,4 +9,4 @@
 Registration: [Registration for the event](https://aka.ms/globalcopilotsummitregistration)
 
 ## Feedback ♻️
-We are excited to learn from you! Please share your experience and feedback with us: [Feedback Survey]()
+We are excited to learn from you! Please share your experience and feedback with us: [Feedback Survey](https://forms.office.com/r/dN6PRkib99?origin=lprLink)
