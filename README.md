@@ -52,7 +52,7 @@ Registration: [Registration for Chennai event](https://www.meetup.com/azure-deve
 
 📆 Saturday April 20th, 2024 <br/>
 🗺️ AIT Global - Pune<br/>
-Registration: [Registration for Pune event](https://aka.ms/globalcopilotsummitregistration) <br/>
+Registration: [Registration for Pune event](https://www.meetup.com/pune-tech-community/events/299950033/) <br/>
 
 ## Agenda
 
