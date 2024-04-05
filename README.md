@@ -87,7 +87,7 @@ Registration: [Registration for Pune event](https://aka.ms/globalcopilotsummitre
 
 
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
-Special thanks to our sponsorship team **[Elastic]([https://learn.microsoft.com/en-us/shows/reactor/](https://www.elastic.co/))**  , **[Rapid Circle India](www.rapidcircle.com)** , **[AIT Global](https://aitglobalindia.com/)** for supporting Global Copilot Summit. 👋
+Special thanks to our sponsorship team **[Elastic](https://www.elastic.co/)**  , **[Rapid Circle India](www.rapidcircle.com)** , **[AIT Global](https://aitglobalindia.com/)** for supporting Global Copilot Summit. 👋
 <br/>
 
 ## Discussion🎙️
