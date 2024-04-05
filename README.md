@@ -23,7 +23,7 @@ Registration: [Registration for Bengaluru event](https://www.meetup.com/microsof
 |  Arjun Menon 	| Unlocking the Full Potential of M365 Copilot with plugins  	|  10:50 - 11:20 	|
 |  Tobin Thomas 	|  Empowering every developer with Copilot for Microsoft 	|  11:20 - 11:50 	|
 |  Break 	|   Break	|   Break	|
-| Karody Lubna Abdul Rahman  	|  M365 and GitHub Copilot Overview 	|  12:00 - 12:30 	|
+| Karody Lubna Abdul Rahman  	|  The Copilot Era: Know and Leverage 	|  12:00 - 12:30 	|
 |  Vignesh 	|  Getting your enterprise ready for Microsoft 365 Copilot	| 12:30 - 13:00  	|
 |  Naren 	|  Security Intelligence without learning 	| 13:00 - 13:30  	|
 
