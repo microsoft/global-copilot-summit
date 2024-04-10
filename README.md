@@ -71,7 +71,7 @@ Registration: [Registration for Pune event](https://www.meetup.com/pune-tech-com
 
 📆 Saturday April 27th, 2024 <br/>
 🗺️ Microsoft - Gurgaon<br/>
-Registration: [Registration for Pune event](https://aka.ms/globalcopilotsummitregistration) <br/>
+Registration: [Registration for Gurgaon event](https://aka.ms/globalcopilotsummitregistration) <br/>
 
 ## Agenda
 
@@ -84,6 +84,25 @@ Registration: [Registration for Pune event](https://aka.ms/globalcopilotsummitre
 |  Mayank Bhardwaj 	|  Build a plugin to extend Microsoft 365 Copilot or low-code custom Copilot with Copilot Studio|  11:50 - 12:35 	|
 | Kapil Sapra  	|  Build / enhance a custom Copilot with pro-code with Azure AI Studio  	|  12:35 - 13:05 	|
 |  Anshuman Agarwal	|  Build custom copilot faster with GitHub Copilot	| 13:05 - 13:35  	|
+
+# Gurgaon
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/d8322f40-c2bc-41bf-8c65-ca0a6148f9f6)
+
+📆 Saturday May 4th, 2024 <br/>
+🗺️ Microsoft - Hyderabad<br/>
+Registration: [Registration for Hyderabad event](https://aka.ms/globalcopilotsummitregistration) <br/>
+
+## Agenda
+
+|  Speaker	Session 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Kamal Shree  	|   Keynote	|  10:00 - 10:30 	|
+| Jasleen Bakshi  	|   TBD 	|  10:30 - 11:00 	|
+| Nithin Asthana 	| TBD   	|  11:0 - 11:30 	|
+| Amit Chandak 	|   Break	|   Break	|
+| Venkata Subbarao 	|  TBD|  11:50 - 12:35 	|
+| Viswanatha Swamy  	|  TBD 	|  12:35 - 13:05 	|
+|  Sponsor Talk	|  TBD	| 13:05 - 13:35  	|
 
 
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
