@@ -20,11 +20,11 @@ Registration: [Registration for Bengaluru event](https://www.meetup.com/microsof
 |  Speaker	Session 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Kamal Shree  	|   Keynote	|  10:30 - 10:50 	|
-|  Arjun Menon 	| Unlocking the Full Potential of M365 Copilot with plugins  	|  10:50 - 11:20 	|
-|  Tobin Thomas 	|  Empowering every developer with Copilot for Microsoft 	|  11:20 - 11:50 	|
+|  Arjun Menon 	| Unlocking the Full Potential of Copilot for Microsoft 365 with plugins  	|  10:50 - 11:20 	|
+|  Tobin Thomas 	|  Empowering every developer with Copilot for Microsoft 365 	|  11:20 - 11:50 	|
 |  Break 	|   Break	|   Break	|
 | Karody Lubna Abdul Rahman  	|  The Copilot Era: Know and Leverage 	|  12:00 - 12:30 	|
-|  Vignesh 	|  Getting your enterprise ready for Microsoft 365 Copilot	| 12:30 - 13:00  	|
+|  Vignesh 	|  Getting your enterprise ready for Copilot for Microsoft 365	| 12:30 - 13:00  	|
 |  Naren 	|  Security Intelligence without learning 	| 13:00 - 13:30  	|
 
 # Chennai
@@ -40,10 +40,10 @@ Registration: [Registration for Chennai event](https://www.meetup.com/azure-deve
 |:-:	|:-:	|:-:	|
 | Navneethan  	|   Welcome Note	|  10:00 - 10:30 	|
 | Kamal Shree  	|   Keynote	|  10:30 - 10:50 	|
-|  Bhargavi 	| Copilot studio: Your Creative Code Companion  	|  10:50 - 11:20 	|
+|  Bhargavi 	| Copilot Studio: Your Creative Code Companion  	|  10:50 - 11:20 	|
 |  Break 	|   Break	|   Break	|
 |  Som M 	|  Vector search using Elasticsearch and Azure OpenAI model	|  11:40 - 12:10 	|
-| Dinesh  	|  What's new in PowerApps with M365 Copilot  	|  12:10 - 12:40 	|
+| Dinesh  	|  What's new in PowerApps with Copilot for Microsoft 365  	|  12:10 - 12:40 	|
 |  Ashish tiwari 	|  Question Answering on private data using Elasticsearch and Azure OpenAI	| 12:40 - 13:10  	|
 |  Karthikeyan VK 	|  Power Up Your Data: Navigating with Power BI Copilot 	| 13:10 - 13:40  	|
 
@@ -62,7 +62,7 @@ Registration: [Registration for Pune event](https://www.meetup.com/pune-tech-com
 | Smitha  	|   Build SharePoint Copilot with Microsoft Copilot Studio	|  10:30 - 10:50 	|
 |  Siddharth 	| Generative Answers on SharePoint List with Copilot Studio  	|  10:50 - 11:20 	|
 |  Break 	|   Break	|   Break	|
-|  Vardham 	|  Building plugins for Microsoft 365 Copilot: Integrate with external data|  11:40 - 12:10 	|
+|  Vardham 	|  Building plugins for Copilot for Microsoft 365: Integrate with external data|  11:40 - 12:10 	|
 | Kunj  	|  TBD  	|  12:10 - 12:40 	|
 |  AIT Global	|  TBD	| 12:40 - 13:10  	|
 
@@ -81,7 +81,7 @@ Registration: [Registration for Gurgaon event](https://aka.ms/globalcopilotsummi
 | Jasleen Bakshi  	|   Pathways to use the Copilot development stack for building and extending generative AI solutions 	|  10:30 - 11:00 	|
 |  Nithin Asthana 	| Bring your own data to Copilot for Microsoft 365 with Azure Open AI   	|  11:0 - 11:30 	|
 |  Break 	|   Break	|   Break	|
-|  Mayank Bhardwaj 	|  Build a plugin to extend Microsoft 365 Copilot or low-code custom Copilot with Copilot Studio|  11:50 - 12:35 	|
+|  Mayank Bhardwaj 	|  Build a plugin to extend Copilot for Microsoft 365 or low-code custom Copilot with Copilot Studio|  11:50 - 12:35 	|
 | Kapil Sapra  	|  Build / enhance a custom Copilot with pro-code with Azure AI Studio  	|  12:35 - 13:05 	|
 |  Anshuman Agarwal	|  Build custom copilot faster with GitHub Copilot	| 13:05 - 13:35  	|
 
