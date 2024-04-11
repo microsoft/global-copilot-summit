@@ -2,7 +2,7 @@
 
 ![Global Banner](https://github.com/microsoft/global-copilot-summit/assets/3199282/ff6bf951-eaa7-43ed-be21-e5e481bbc4e4)
 
-<p>🎉<b>Global Copilot Summit</b>🎉 is an event targeting developer audiences to show how to** adopt, extend, and build Copilot **experiences. This half-day event takes place in various cities throughout the world and offers a great opportunity to showcase your expertise and insights.</p>
+<p>🎉<b>Global Copilot Summit</b>🎉 is an event targeting developer audiences to show how to **adopt, extend, and build Copilot** experiences. This half-day event takes place in various cities throughout the world and offers a great opportunity to showcase your expertise and insights.</p>
 
 <p>The theme of the summit is Adopt, Extend, and Build Copilot, and is attended by professional developers interested in learning more about AI, GitHub Copilot, Azure AI Studio, or Power Apps and how they can leverage them with Copilot for Microsoft 365.</p>
 
