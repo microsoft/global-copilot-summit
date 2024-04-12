@@ -97,11 +97,11 @@ Registration: [Registration for Hyderabad event](https://aka.ms/globalcopilotsum
 |  Speaker	Session 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Kamal Shree  	|   Keynote	|  10:00 - 10:30 	|
-| Jasleen Bakshi  	|   TBD 	|  10:30 - 11:00 	|
-| Nithin Asthana 	| TBD   	|  11:0 - 11:30 	|
-| Amit Chandak 	|   Break	|   Break	|
-| Venkata Subbarao 	|  TBD|  11:50 - 12:35 	|
-| Viswanatha Swamy  	|  TBD 	|  12:35 - 13:05 	|
+| Amit Chandak 	|   TBD 	|  10:30 - 11:00 	|
+|  Venkata Subbarao	| TBD   	|  11:0 - 11:30 	|
+| Viswanatha Swamy  	|   Break	|   Break	|
+| TBD 	|  TBD|  11:50 - 12:35 	|
+| TBD	|  TBD 	|  12:35 - 13:05 	|
 |  Sponsor Talk	|  TBD	| 13:05 - 13:35  	|
 
 
