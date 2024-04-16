@@ -99,10 +99,32 @@ Registration: [Registration for Hyderabad event](https://aka.ms/globalcopilotsum
 | Kamal Shree  	|   Keynote	|  10:00 - 10:30 	|
 | Amit Chandak 	|   TBD 	|  10:30 - 11:00 	|
 |  Venkata Subbarao	| TBD   	|  11:0 - 11:30 	|
-| Viswanatha Swamy  	|   Break	|   Break	|
-| TBD 	|  TBD|  11:50 - 12:35 	|
+| Break 	|   Break	|   Break	|
+| Viswanatha Swamy 	|  TBD|  11:50 - 12:35 	|
 | TBD	|  TBD 	|  12:35 - 13:05 	|
 |  Sponsor Talk	|  TBD	| 13:05 - 13:35  	|
+
+
+# Mumbai
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/a4eb6f2b-dd1d-4ad8-be1c-9e8968f62c7f)
+
+
+📆 Saturday May 11th, 2024 <br/>
+🗺️ Microsoft - Mumbai<br/>
+Registration: [Registration for Hyderabad event](https://aka.ms/globalcopilotsummitregistration) <br/>
+
+## Agenda
+
+|  Speaker	Session 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Shrushti  	|   Keynote	|  11:00 - 11:30 	|
+| Kasam 	|   TBD 	|  11:30 - 12:00 	|
+|  Smitha Nachan	| TBD   	|  12:00 - 12:30 	|
+| Break  	|   Break	|   Break	|
+| Nanddeep Nachan 	|  TBD|  12:50 - 13:20 	|
+| Vidit	|  TBD 	|  13:20 - 13:50 	|
+| Lunch  	|   Lunch	|   Lunch	|
+| Krunal|  TBD	| 2:30 - 3:00  	|
 
 
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
