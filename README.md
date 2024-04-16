@@ -111,7 +111,7 @@ Registration: [Registration for Hyderabad event](https://aka.ms/globalcopilotsum
 
 📆 Saturday May 11th, 2024 <br/>
 🗺️ Microsoft - Mumbai<br/>
-Registration: [Registration for Hyderabad event](https://aka.ms/globalcopilotsummitregistration) <br/>
+Registration: [Registration for Mumbai event](https://aka.ms/globalcopilotsummitregistration) <br/>
 
 ## Agenda
 
