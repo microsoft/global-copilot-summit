@@ -85,7 +85,7 @@ Registration: [Registration for Gurgaon event](https://aka.ms/globalcopilotsummi
 | Kapil Sapra  	|  Build / enhance a custom Copilot with pro-code with Azure AI Studio  	|  12:35 - 13:05 	|
 |  Anshuman Agarwal	|  Build custom copilot faster with GitHub Copilot	| 13:05 - 13:35  	|
 
-# Gurgaon
+# Hyderabad
 ![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/d8322f40-c2bc-41bf-8c65-ca0a6148f9f6)
 
 📆 Saturday May 4th, 2024 <br/>
