@@ -79,11 +79,12 @@ Registration: [Registration for Gurgaon event](https://aka.ms/globalcopilotsummi
 |:-:	|:-:	|:-:	|
 | Pratibha Misra  	|   AI-Powered Future of Work, Copilot for every Microsoft Cloud experience	|  10:00 - 10:30 	|
 | Jasleen Bakshi  	|   Pathways to use the Copilot development stack for building and extending generative AI solutions 	|  10:30 - 11:00 	|
-|  Nithin Asthana 	| Bring your own data to Copilot for Microsoft 365 with Azure Open AI   	|  11:0 - 11:30 	|
+|  Nitin Asthana 	| Bring your own data to Copilot for Microsoft 365 with Azure Open AI   	|  11:0 - 11:30 	|
 |  Break 	|   Break	|   Break	|
 |  Mayank Bhardwaj 	|  Build a plugin to extend Copilot for Microsoft 365 or low-code custom Copilot with Copilot Studio|  11:50 - 12:35 	|
 | Kapil Sapra  	|  Build / enhance a custom Copilot with pro-code with Azure AI Studio  	|  12:35 - 13:05 	|
 |  Anshuman Agarwal	|  Build custom copilot faster with GitHub Copilot	| 13:05 - 13:35  	|
+|  Saurabh Agarwal	|  Copilot Extensibility - Use cases, options and best practices	| 13:35 - 14:00  	|
 
 # Hyderabad
 ![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/d8322f40-c2bc-41bf-8c65-ca0a6148f9f6)
