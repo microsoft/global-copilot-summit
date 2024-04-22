@@ -118,14 +118,14 @@ Registration: [Registration for Mumbai event](https://aka.ms/globalcopilotsummit
 
 |  Speaker	Session 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
-| Shrushti  	|   Keynote	|  11:00 - 11:30 	|
+| Shrushti  	|    Build your own Copilot using Copilot Studio with your own data from SharePoint	|  11:00 - 11:30 	|
 | Kasam 	|   TBD 	|  11:30 - 12:00 	|
-|  Smitha Nachan	| TBD   	|  12:00 - 12:30 	|
+|  Nanddeep Nacha	| Extend Copilot for Microsoft 365 with plugins   	|  12:00 - 12:40 	|
 | Break  	|   Break	|   Break	|
-| Nanddeep Nachan 	|  TBD|  12:50 - 13:20 	|
-| Vidit	|  TBD 	|  13:20 - 13:50 	|
+| Omkar Khair & Bhushan Gawale	|  TBD 	|  13:00 - 13:30 	|
+| Krunal|  Simplifying Cloud Operations with Microsoft Copilot for Azure	| 13:30 - 14:00  	|
 | Lunch  	|   Lunch	|   Lunch	|
-| Krunal|  TBD	| 2:30 - 3:00  	|
+
 
 
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
