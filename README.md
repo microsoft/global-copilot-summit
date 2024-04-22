@@ -97,14 +97,14 @@ Registration: [Registration for Hyderabad event](https://aka.ms/globalcopilotsum
 
 |  Speaker	Session 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
-| Kamal Shree  	|   Keynote	|  10:00 - 10:30 	|
-| Amit Chandak 	|   Copilot in Power BI In Microsoft Fabric  	|  10:30 - 11:00 	|
-|  Venkata Subbarao	| Extending Copilot's Capabilities: Customization and Plugin Development   	|  11:00 - 11:30 	|
+| Kamal Shree  	|   Keynote	| 10:00 - 10:30 |
+| Amit Chandak 	|   Copilot in Power BI In Microsoft Fabric  	| 10:30 - 11:00 |
+|  Venkata Subbarao	| Extending Copilot's Capabilities: Customization and Plugin Development   	| 11:00 - 11:30 |
 | Break 	|   Break	|   Break	|
-| Viswanatha Swamy 	|  Unlocking Productivity with Microsoft Copilot: A Hands-On Journey through Word, PowerPoint, Excel, Outlook, and Web Development|  11:50 - 12:20 	|
+| Viswanatha Swamy 	|  Unlocking Productivity with Microsoft Copilot: A Hands-On Journey through Word, PowerPoint, Excel, Outlook, and Web Development| 11:50 - 12:20 |
 | TBD	|  TBD	| 12:20 - 12:50  	|
 | Ashish Tiwari	|  Semantic search with Elasticsearch  	|  12:50 - 13:20 	|
-| Rishikesh Radhakrishnan	|  Powering Intelligent Applications with Azure OpenAI, Elasticsearch, and RAG 	|  13:20 - 14:00 	|
+| Rishikesh Radhakrishnan	|  Powering Intelligent Applications with Azure OpenAI, Elasticsearch, and RAG 	| 13:20 - 14:00 |
 | Lunch	|  Lunch 	| Lunch	|
 
 
