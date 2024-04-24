@@ -130,6 +130,26 @@ Registration: [Registration for Mumbai event](https://aka.ms/globalcopilotsummit
 | Lunch  	|   Lunch	|   Lunch	|
 
 
+# Toronto
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/79d5f661-bbc8-4ae3-9f1e-229cc2ae3e56)
+
+📆 Saturday May 2nd, 2024 <br/>
+🗺️ Microsoft - Toronto <br/>
+Registration: [Registration for Toronto event](https://developer.microsoft.com/en-us/reactor/events/22460/?wt.mc_id=3reg_22460_webpage_reactor) <br/>
+
+## Agenda
+
+|  Speaker	Session 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Alixia  	|    Opening Note	|  17:00 - 17:15 	|
+| Kamal Shree  	|    Keynote	|  17:15 - 17:40 	|
+| Alex Rostan 	|   Let's check the Power Platform copilots 	|  17:40 - 18:10 	|
+| Haniel Croitoru	| Introducing the Power Automate and Power Apps Copilots   	|  12:00 - 12:40 	|
+| Break  	|   Break	|   Break	|
+| Ehsan Eskandari	|  What is Copilot for Azure? 	|  18:50 - 19:20 	|
+| Max Yermakhanov|  Boosting Productivity with GitHub Copilo	| 19:20 - 19:50  	|
+| Closing Remarks  	|   Closing Remarks	|   Closing Remarks	|
+
 
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
 Special thanks to our sponsorship team **[Elastic](https://www.elastic.co/)**  , **[Rapid Circle India](www.rapidcircle.com)** , **[AIT Global](https://aitglobalindia.com/)** for supporting Global Copilot Summit. 👋
