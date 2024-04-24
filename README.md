@@ -1,6 +1,6 @@
 # globalcopilotsummit: Global Copilot Summit 🎉
 
-![Global Banner](https://github.com/microsoft/global-copilot-summit/assets/3199282/ff6bf951-eaa7-43ed-be21-e5e481bbc4e4)
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/b3632c69-3bdc-4a43-ac54-a491843d251e)
 
 <p>🎉<b>Global Copilot Summit</b>🎉 is an event targeting developer audiences to show how to <b>adopt, extend, and build Copilot</b> experiences. This half-day event takes place in various cities throughout the world and offers a great opportunity to showcase your expertise and insights.</p>
 
