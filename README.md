@@ -1,8 +1,8 @@
-# globalcopilotsummit: Global Copilot Summit 🎉
+# globalcopilotsummit: Global Copilot Developer Summit for Microsoft 365 🎉
 
 ![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/b3632c69-3bdc-4a43-ac54-a491843d251e)
 
-<p>🎉<b>Global Copilot Summit</b>🎉 is an event targeting developer audiences to show how to <b>adopt, extend, and build Copilot</b> experiences. This half-day event takes place in various cities throughout the world and offers a great opportunity to showcase your expertise and insights.</p>
+<p>🎉<b>Global Copilot Developer Summit for Microsoft 365</b>🎉 is an event targeting developer audiences to show how to <b>adopt, extend, and build Copilot</b> experiences. This half-day event takes place in various cities throughout the world and offers a great opportunity to showcase your expertise and insights.</p>
 
 <p>The theme of the summit is Adopt, Extend, and Build Copilot, and is attended by professional developers interested in learning more about AI, GitHub Copilot, Azure AI Studio, or Power Apps and how they can leverage them with Copilot for Microsoft 365.</p>
 
