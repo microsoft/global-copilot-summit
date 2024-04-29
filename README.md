@@ -151,6 +151,27 @@ Registration: [Registration for Toronto event](https://developer.microsoft.com/e
 | Closing Remarks  	|   Closing Remarks	|   Closing Remarks	|
 
 
+# Sao Paulo
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/47111747-485b-48dc-a1cb-f624f8c3104e)
+
+
+📆 Saturday May 10th, 2024 <br/>
+🗺️ Microsoft - Sao Paulo <br/>
+Registration: [Registration for Sao Paulo event](https://aka.ms/GlobalCopilotSummitSP) <br/>
+
+## Agenda
+
+|  Speaker	Session 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+|Credenciamento e Wecolme Coffe	|  17:30 - 18:30	|
+| Bob German  	|    Keynote	|  18:30 - 18:50	|
+| Allisson Scalco e Maíra D´Eluterio 	|   Como o CoPilot for Microsoft 365 pode aumentar sua produtividade no dia a dia 	|  19:00 - 19:40 	|
+| Renato Romão e Eduardo Amaral	| GenAI com bots do CoPilot Studio + OpenAI para Copilot for Microsoft 365  	|  19:40 - 20:30 	|
+| Douglas Romãoe e Gustavo Moraes	|  Extensions para CoPilot for Microsoft 365: estendendo e customizando seu copiloto	|  20:30 - 21:10 	|
+| Encerramento	| 21:10 - 21:15  	|
+| Snacks e Networking	|   21:15 - 22:00	|
+
+
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
 Special thanks to our sponsorship team **[Elastic](https://www.elastic.co/)**  , **[Rapid Circle India](www.rapidcircle.com)** , **[AIT Global](https://aitglobalindia.com/)** for supporting Global Copilot Summit. 👋
 <br/>
