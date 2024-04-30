@@ -58,13 +58,13 @@ Registration: [Registration for Pune event](https://www.meetup.com/pune-tech-com
 
 |  Speaker	Session 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
-| Nanddeep  	|   Welcome Note	|  10:00 - 10:30 	|
-| Smitha  	|   Build SharePoint Copilot with Microsoft Copilot Studio	|  10:30 - 10:50 	|
-|  Siddharth 	| Generative Answers on SharePoint List with Copilot Studio  	|  10:50 - 11:20 	|
+| Nanddeep Nachan	| Keynote - Microsoft 365 Copilot: The future is now!	|  10:00 - 10:30 	|
+| Smita Nachan | Build SharePoint Copilot with Microsoft Copilot Studio	|  10:30 - 11:00 	|
+|  Siddharth Vaghasia	| Generative Answers on SharePoint List with Copilot Studio  	|  11:00 - 11:30 	|
 |  Break 	|   Break	|   Break	|
-|  Vardham 	|  Building plugins for Copilot for Microsoft 365: Integrate with external data|  11:40 - 12:10 	|
-| Kunj  	|  TBD  	|  12:10 - 12:40 	|
-|  AIT Global	|  TBD	| 12:40 - 13:10  	|
+|  Vardhaman Deshpande 	|  Building plugins for Copilot for Microsoft 365: Integrate with external data|  12:00 - 12:30 	|
+| Kunj Sangani |  Plugin actions with Microsoft Copilot Studio	|  12:30 - 13:00 	|
+
 
 # Gurgaon
 ![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/13affd00-3d24-45aa-9b9a-288556b435b6)
@@ -121,12 +121,12 @@ Registration: [Registration for Mumbai event](https://aka.ms/globalcopilotsummit
 
 |  Speaker	Session 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
-| Shrushti  	|    Build your own Copilot using Copilot Studio with your own data from SharePoint	|  11:00 - 11:30 	|
-| Kasam 	|   TBD 	|  11:30 - 12:00 	|
-|  Nanddeep Nacha	| Extend Copilot for Microsoft 365 with plugins   	|  12:00 - 12:40 	|
+| Shrushti Shah | Build your own Copilot using Copilot Studio with your own data from SharePoint |  11:00 - 11:30 	|
+| Kasam Shaikh	|   TBD 	|  11:30 - 12:00 	|
+| Nanddeep Nachan and Smita Nachan | Extend Copilot for Microsoft 365 with plugins |  12:00 - 12:40 	|
 | Break  	|   Break	|   Break	|
-| Omkar Khair & Bhushan Gawale	|  TBD 	|  13:00 - 13:30 	|
-| Krunal|  Simplifying Cloud Operations with Microsoft Copilot for Azure	| 13:30 - 14:00  	|
+| Omkar Khair and Bhushan Gawale	|  TBD 	|  13:00 - 13:30 	|
+| Krunal Trivedi |  Simplifying Cloud Operations with Microsoft Copilot for Azure	| 13:30 - 14:00  	|
 | Lunch  	|   Lunch	|   Lunch	|
 
 
