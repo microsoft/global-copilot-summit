@@ -58,8 +58,8 @@ Registration: [Registration for Pune event](https://www.meetup.com/pune-tech-com
 
 |  Speaker	Session 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
-| Nanddeep  	|   Welcome Note	|  10:00 - 10:30 	|
-| Smitha  	|   Build SharePoint Copilot with Microsoft Copilot Studio	|  10:30 - 10:50 	|
+| Nanddeep Nachan 	|   Welcome Note	|  10:00 - 10:30 	|
+| Smita Nachan  	|   Build SharePoint Copilot with Microsoft Copilot Studio	|  10:30 - 10:50 	|
 |  Siddharth 	| Generative Answers on SharePoint List with Copilot Studio  	|  10:50 - 11:20 	|
 |  Break 	|   Break	|   Break	|
 |  Vardham 	|  Building plugins for Copilot for Microsoft 365: Integrate with external data|  11:40 - 12:10 	|
@@ -123,7 +123,7 @@ Registration: [Registration for Mumbai event](https://aka.ms/globalcopilotsummit
 |:-:	|:-:	|:-:	|
 | Shrushti  	|    Build your own Copilot using Copilot Studio with your own data from SharePoint	|  11:00 - 11:30 	|
 | Kasam 	|   TBD 	|  11:30 - 12:00 	|
-|  Nanddeep Nacha	| Extend Copilot for Microsoft 365 with plugins   	|  12:00 - 12:40 	|
+|  Nanddeep Nachan & Smita Nachan	| Extend Copilot for Microsoft 365 with plugins   	|  12:00 - 12:40 	|
 | Break  	|   Break	|   Break	|
 | Omkar Khair & Bhushan Gawale	|  TBD 	|  13:00 - 13:30 	|
 | Krunal|  Simplifying Cloud Operations with Microsoft Copilot for Azure	| 13:30 - 14:00  	|
