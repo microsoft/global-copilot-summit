@@ -182,7 +182,7 @@ Registration: [Registration for San Francisco event](https://developer.microsoft
 |:-:	|:-:	|:-:	|
 | Anna  	|    Opening Note	|  17:00 - 17:30	|
 | Kamal Shree  	|   Keynote	|  17:30 - 18:00 	|
-| Eric Overfield	|   Navigating Copilot: A Comprehensive Tour of Copilot in Microsoft 365 	|  18:00 - 18:30 	|
+| Eric Overfield	| The Copilot Readiness Blueprint: Preparing Your Microsoft 365 Environment | 18:00 - 18:30 	|
 | Visha Chadha	| Migrating to Teams   	| 18:30 - 19:00 	|
 | Closing Remarks  	|   Closing Remarks	|   Closing Remarks	|
 
