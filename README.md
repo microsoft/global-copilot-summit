@@ -169,6 +169,24 @@ Registration: [Registration for Redmond event](https://developer.microsoft.com/e
 | Closing Remarks  	|   Closing Remarks	|   Closing Remarks	|
 
 
+# San Francisco
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/558a1b4b-467e-4513-8088-46f0862d5775)
+
+📆 Monday May 7th, 2024 <br/>
+🗺️ Microsoft - San Francisco <br/>
+Registration: [Registration for Francisco event](https://developer.microsoft.com/en-us/reactor/events/22603/) <br/>
+
+## Agenda
+
+|  Speaker	Session 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Anna  	|    Opening Note	|  17:00 - 17:30	|
+| Kamal Shree  	|   Keynote	|  17:30 - 18:00 	|
+| Eric Overfield	|   Navigating Copilot: A Comprehensive Tour of Copilot in Microsoft 365 	|  18:00 - 18:30 	|
+| Visha Chadha	| Migrating to Teams   	| 18:30 - 19:00 	|
+| Closing Remarks  	|   Closing Remarks	|   Closing Remarks	|
+
+
 # Sao Paulo
 ![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/47111747-485b-48dc-a1cb-f624f8c3104e)
 
