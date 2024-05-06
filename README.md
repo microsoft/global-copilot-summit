@@ -17,7 +17,7 @@ Registration: [Registration for Bengaluru event](https://www.meetup.com/microsof
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Kamal Shree  	|   Keynote	|  10:30 - 10:50 	|
 |  Arjun Menon 	| Unlocking the Full Potential of Copilot for Microsoft 365 with plugins  	|  10:50 - 11:20 	|
@@ -36,7 +36,7 @@ Registration: [Registration for Chennai event](https://www.meetup.com/azure-deve
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Navneethan  	|   Welcome Note	|  10:00 - 10:30 	|
 | Kamal Shree  	|   Keynote	|  10:30 - 10:50 	|
@@ -56,7 +56,7 @@ Registration: [Registration for Pune event](https://www.meetup.com/pune-tech-com
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Nanddeep Nachan 	|   Welcome Note	|  10:00 - 10:30 	|
 | Smita Nachan  	|   Build SharePoint Copilot with Microsoft Copilot Studio	|  10:30 - 10:50 	|
@@ -75,7 +75,7 @@ Registration: [Registration for Gurgaon event](https://aka.ms/globalcopilotsummi
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Pratibha Misra  	|   AI-Powered Future of Work, Copilot for every Microsoft Cloud experience	|  10:00 - 10:30 	|
 | Jasleen Bakshi  	|   Pathways to use the Copilot development stack for building and extending generative AI solutions 	|  10:30 - 11:00 	|
@@ -95,7 +95,7 @@ Registration: [Registration for Hyderabad event](https://aka.ms/globalcopilotsum
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Kamal Shree  	|   Keynote	| 10:00 - 10:30 |
 | Amit Chandak 	|   Copilot in Power BI In Microsoft Fabric  	| 10:30 - 11:00 |
@@ -119,7 +119,7 @@ Registration: [Registration for Mumbai event](https://aka.ms/globalcopilotsummit
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Shrushti  	|    Build your own Copilot using Copilot Studio with your own data from SharePoint	|  11:00 - 11:30 	|
 | Kasam 	|   TBD 	|  11:30 - 12:00 	|
@@ -139,7 +139,7 @@ Registration: [Registration for Toronto event](https://developer.microsoft.com/e
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Alixia  	|    Opening Note	|  17:00 - 17:15 	|
 | Kamal Shree  	|    Keynote	|  17:15 - 17:40 	|
@@ -160,7 +160,7 @@ Registration: [Registration for Redmond event](https://developer.microsoft.com/e
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Anna  	|    Opening Note	|  17:00 - 17:30	|
 | Jeremy Thake  	|    Microsoft Copilot for Microsoft 365 Extensibility Dev 101	|  17:30 - 18:00 	|
@@ -178,7 +178,7 @@ Registration: [Registration for San Francisco event](https://developer.microsoft
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 | Anna  	|    Opening Note	|  17:00 - 17:30	|
 | Kamal Shree  	|   Keynote	|  17:30 - 18:00 	|
@@ -197,7 +197,7 @@ Registration: [Registration for Sao Paulo event](https://aka.ms/GlobalCopilotSum
 
 ## Agenda
 
-|  Speaker	Session 	|  Titles 	|  Timings 	|
+|  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
 |Credenciamento e Wecolme Coffe	|  17:30 - 18:30	|
 | Bob German  	|    Keynote	|  18:30 - 18:50	|
@@ -206,6 +206,28 @@ Registration: [Registration for Sao Paulo event](https://aka.ms/GlobalCopilotSum
 | Douglas Romãoe e Gustavo Moraes	|  Extensions para CoPilot for Microsoft 365: estendendo e customizando seu copiloto	|  20:30 - 21:10 	|
 | Encerramento	| 21:10 - 21:15  	|
 | Snacks e Networking	|   21:15 - 22:00	|
+
+
+
+# London
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/667415d4-30d7-46c2-99bd-4874220a2be9)
+
+📆 Tuesday May 14th, 2024 <br/>
+🗺️ Microsoft - London <br/>
+Registration: [Registration for London event](https://developer.microsoft.com/en-us/reactor/events/22566/) <br/>
+
+## Agenda
+
+|  Speaker	 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| -	|Arrivals/ Checkin |  17:00 - 17:30	|
+| - |Welcome Note|  17:30 - 17:40	|
+| Chris Noring 	|   Welcome Keynote, Extending Copilot for 365 	|  17:40 - 18:20 	|
+| Lee Ford	| Extending your M365 Copilot with your own data using Graph Connectors  	|  18:20 - 19:00 	|
+| Break  	|   Break	|   Break	|
+| Paul Bullock	|  Extending your Teams Message Extensions to support use within Copilot for Microsoft 365	|  19:30 - 20:10 	|
+| Ejaz Hussain  |	 Unleash Your Business Data: Supercharge Copilot for Microsoft 365 with Custom Graph Connectors | 20:10 - 20:50  	|
+| Closing Remarks	|  Closing Remarks	| Closing Remarks|
 
 
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
