@@ -151,6 +151,24 @@ Registration: [Registration for Toronto event](https://developer.microsoft.com/e
 | Closing Remarks  	|   Closing Remarks	|   Closing Remarks	|
 
 
+# Redmond
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/d5ade1cd-4f21-446b-a4b6-ecd0598f4803)
+
+📆 Monday May 6th, 2024 <br/>
+🗺️ Microsoft - Redmond <br/>
+Registration: [Registration for Redmond event](https://developer.microsoft.com/en-us/reactor/events/22238/) <br/>
+
+## Agenda
+
+|  Speaker	Session 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Anna  	|    Opening Note	|  17:00 - 17:30	|
+| Jeremy Thake  	|    Microsoft Copilot for Microsoft 365 Extensibility Dev 101	|  17:30 - 18:00 	|
+| Shawn Henry	|   Build Your Custom Copilot that Can Talk 	|  18:00 - 18:30 	|
+| Kamal Shree	| Overview of Teams AI library   	| 18:30 - 19:00 	|
+| Closing Remarks  	|   Closing Remarks	|   Closing Remarks	|
+
+
 # Sao Paulo
 ![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/47111747-485b-48dc-a1cb-f624f8c3104e)
 
