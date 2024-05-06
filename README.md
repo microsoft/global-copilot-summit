@@ -174,7 +174,7 @@ Registration: [Registration for Redmond event](https://developer.microsoft.com/e
 
 📆 Monday May 7th, 2024 <br/>
 🗺️ Microsoft - San Francisco <br/>
-Registration: [Registration for Francisco event](https://developer.microsoft.com/en-us/reactor/events/22603/) <br/>
+Registration: [Registration for San Francisco event](https://developer.microsoft.com/en-us/reactor/events/22603/) <br/>
 
 ## Agenda
 
