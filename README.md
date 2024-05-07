@@ -250,6 +250,28 @@ Registration: [Registration for Sydney event](https://www.meetup.com/microsoft-r
 | Closing Remarks	|  Closing Remarks	| Closing Remarks|
 
 
+# Shanghai
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/6172cf21-8992-4f95-983d-c98a664fd0fb)
+
+📆 Saturday May 18th, 2024 <br/>
+🗺️ Microsoft - Shanghai <br/>
+Registration: [Registration for Shanghai event](https://developer.microsoft.com/en-us/reactor/events/22570/) <br/>
+
+## Agenda
+
+|  Speaker	 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| -	|Welcome Note |  13:00 - 13:10	|
+| Kamal Shree	|Keynote |  13:10 - 13:30	|
+| Yan Jin   |	 TBD | 13:40 - 14:10  	|
+| Junjie Li &  Yuqi Zhou	|  Intro for Microsoft 365 Copilot Extensibility	|  13:40 - 14:10 	|
+| Grey Li   |	TBD | 14:10 - 14:50  	|
+| Break   |	Break | Break 	|
+| Kinfey Lo   |	Using GitHub Copilot Agent to create your projects | 15:10 - 15:40  	|
+| Yan Jin   |	 Round table Discussion | 15:40 - 16:10  	|
+| Closing Remarks	|  Closing Remarks	| Closing Remarks|
+
+
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
 Special thanks to our sponsorship team **[Elastic](https://www.elastic.co/)**  , **[Rapid Circle India](www.rapidcircle.com)** , **[AIT Global](https://aitglobalindia.com/)** for supporting Global Copilot Summit. 👋
 <br/>
