@@ -265,7 +265,7 @@ Registration: [Registration for Shanghai event](https://developer.microsoft.com/
 | Kamal Shree	|Keynote |  13:10 - 13:30	|
 | Yan Jin   |	 TBD | 13:40 - 14:10  	|
 | Junjie Li &  Yuqi Zhou	|  Intro for Microsoft 365 Copilot Extensibility	|  13:40 - 14:10 	|
-| Grey Li   |	TBD | 14:10 - 14:50  	|
+| Partner Talk  |	TBD | 14:10 - 14:50  	|
 | Break   |	Break | Break 	|
 | Kinfey Lo   |	Using GitHub Copilot Agent to create your projects | 15:10 - 15:40  	|
 | Yan Jin   |	 Round table Discussion | 15:40 - 16:10  	|
