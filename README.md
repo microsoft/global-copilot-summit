@@ -230,6 +230,25 @@ Registration: [Registration for London event](https://developer.microsoft.com/en
 | Closing Remarks	|  Closing Remarks	| Closing Remarks|
 
 
+# Sydney
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/7d4c52a7-0bfa-43ef-9270-9867c12fede3)
+
+
+📆 Tuesday May 14th, 2024 <br/>
+🗺️ Microsoft - Sydney <br/>
+Registration: [Registration for Sydney event](https://www.meetup.com/microsoft-reactor-sydney/events/300585915/) <br/>
+
+## Agenda
+
+|  Speaker	 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Rabia Williams	|Keynote |  15:00 - 15:30	|
+| Daniel Anderson	|  Build and Deploy a Custom Copilot to SharePoint	|  15:30 - 16:10 	|
+| Arafat Tehsin   |	Elevate your business with Copilots from Scratch | 16:10 - 16:50  	|
+| Chris Goosen   |	 Round table Discussion | 16:50 - 17:20  	|
+| Closing Remarks	|  Closing Remarks	| Closing Remarks|
+
+
 👋 Special thanks to our Reactor Teams **[Microsoft Reactor Team](https://learn.microsoft.com/en-us/shows/reactor/)** for supporting Global Copilot Summit.<br/>
 Special thanks to our sponsorship team **[Elastic](https://www.elastic.co/)**  , **[Rapid Circle India](www.rapidcircle.com)** , **[AIT Global](https://aitglobalindia.com/)** for supporting Global Copilot Summit. 👋
 <br/>
