@@ -242,10 +242,11 @@ Registration: [Registration for Sydney event](https://www.meetup.com/microsoft-r
 
 |  Speaker	 	|  Titles 	|  Timings 	|
 |:-:	|:-:	|:-:	|
-| Rabia Williams	|Keynote |  15:00 - 15:30	|
-| Daniel Anderson	|  Build and Deploy a Custom Copilot to SharePoint	|  15:30 - 16:10 	|
-| Arafat Tehsin   |	Elevate your business with Copilots from Scratch | 16:10 - 16:50  	|
-| Chris Goosen   |	 Round table Discussion | 16:50 - 17:20  	|
+| -	|Welcome Note |  15:00 - 15:10	|
+| Rabia Williams	|Keynote |  15:10 - 15:40	|
+| Daniel Anderson	|  Build and Deploy a Custom Copilot to SharePoint	|  15:40 - 16:20 	|
+| Arafat Tehsin   |	Elevate your business with Copilots from Scratch | 16:20 - 17:00  	|
+| Chris Goosen   |	 Round table Discussion | 17:00 - 17:30  	|
 | Closing Remarks	|  Closing Remarks	| Closing Remarks|
 
 
