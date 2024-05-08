@@ -268,7 +268,7 @@ Registration: [Registration for Shanghai event](https://developer.microsoft.com/
 | Partner Talk  |	TBD | 14:10 - 14:50  	|
 | Break   |	Break | Break 	|
 | Kinfey Lo   |	Using GitHub Copilot Agent to create your projects | 15:10 - 15:40  	|
-| Yan Jin   |	 Round table Discussion | 15:40 - 16:10  	|
+| Yu Zhang & Zhidi  |	 Round table Discussion | 15:40 - 16:10  	|
 | Closing Remarks	|  Closing Remarks	| Closing Remarks|
 
 
