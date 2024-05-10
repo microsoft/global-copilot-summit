@@ -249,6 +249,24 @@ Registration: [Registration for Sydney event](https://www.meetup.com/microsoft-r
 | Chris Goosen   |	 Round table Discussion | 17:00 - 17:30  	|
 | Closing Remarks	|  Closing Remarks	| Closing Remarks|
 
+# Tel Aviv
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/18f50e2f-bfc0-4bd7-b4f8-6c51cae455d2)
+
+📆 Thursday May 16th, 2024 <br/>
+🗺️ Microsoft - Tel Aviv <br/>
+Registration: [Registration for Tel Aviv event](https://developer.microsoft.com/reactor/events/22448) <br/>
+
+## Agenda
+
+|  Speaker	 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| -	|Registration |  18:00 - 18:30	|
+| Kamal Shree	|Welcome remarks and Keynote |  18:30 - 18:50	|
+| Itai Hershenhoren	|  Improve your productivity with Meeting Copilot	|  18:50 - 19:20 	|
+| Elli Shlomo  |	Getting started with Copilot for Security | 19:20 - 19:50  	|
+|  Guy Yom Tov   |	 Github Copilot Tips & Tricks, | 19:50 - 20:20  	|
+| Closing Remarks	|  Closing Remarks	| Closing Remarks|
+
 
 # Shanghai
 ![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/6172cf21-8992-4f95-983d-c98a664fd0fb)
