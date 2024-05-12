@@ -267,6 +267,23 @@ Registration: [Registration for Tel Aviv event](https://developer.microsoft.com/
 |  Guy Yom Tov   |	 Github Copilot Tips & Tricks, | 19:50 - 20:20  	|
 | Closing Remarks	|  Closing Remarks	| Closing Remarks|
 
+# New York
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/474ff322-c72e-4041-a17c-b9772560abec)
+
+📆 Thursday May 16th, 2024 <br/>
+🗺️ Microsoft - New York <br/>
+Registration: [Registration for New York event](https://developer.microsoft.com/en-us/reactor/events/22604/) <br/>
+
+## Agenda
+
+|  Speaker	 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| Kamal Shree	|Welcome remarks and Keynote | 18:00	|
+| Knut Relbe-Moe	|  Get started with Copilot in Edge browser		|  - 	|
+| Rajaniesh Kaushikk  |	Simplifying Predictive Analytics: Unleash the Power of Microsoft Fabric Copilot | - 	|
+|  Jenkins NS  |	 Extend and deploy Microsoft Teams Message extension as Copilot Plugin	 | - 	|
+| Closing Remarks	|  Closing Remarks	| Closing Remarks|
+
 
 # Shanghai
 ![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/6172cf21-8992-4f95-983d-c98a664fd0fb)
