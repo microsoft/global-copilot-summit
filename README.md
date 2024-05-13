@@ -267,6 +267,26 @@ Registration: [Registration for Tel Aviv event](https://developer.microsoft.com/
 |  Guy Yom Tov   |	 Github Copilot Tips & Tricks, | 19:50 - 20:20  	|
 | Closing Remarks	|  Closing Remarks	| Closing Remarks|
 
+# UAE
+![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/2b92cfda-927e-4b71-a80a-bee56c513a78)
+
+📆 Thursday May 16th, 2024 <br/>
+🗺️ Microsoft - Abu Dhabi <br/>
+
+## Agenda
+
+|  Speaker	 	|  Titles 	|  Timings 	|
+|:-:	|:-:	|:-:	|
+| -	|Registration & Coffee |  10:30 AM - 10:55 AM	|
+| Maitha Alsuwaidi - Chief Operating Officer, Microsoft	|Event Opening & Keynote |  10:55 AM – 11:00 AM	|
+|Hatim Nagarwala - GTM Azure Application Innovation, Microsoft	|  Introduction to Founders Hub	|  11:00 AM – 11: 30 AM 	|
+| Ayca Bas – Senor Cloud Developer Advocate  |	Extend Copilot for Microsoft 365 with your line of business apps and data | 11:30 AM – 12: 15 PM  	|
+|  Kamal Shree Soundirapandian - Cloud Developer Advocate   |	 Build Custom Copilots for Teams | 12: 15 PM - 12:45 PM  	|
+| Ahmed Uzair – Microsoft MVP PowerApps & Power Auotmate Technical Consultant, IntelPeek	|  Copilot +Power Platform: A Recipe for building intelligent solutions rapidly	| 12:45 PM – 01:20 PM|
+|  Hassan Rashid - Cloud Architect, Azure Expert    |	 Expand MS Copilot capability with Azure AI and Power Automate | 01: 20 PM – 01:50 PM  	|
+|  -  |	 Open Floor and FAQ | 01:50 PM – 02:00 PM  	|
+
+
 # New York
 ![image](https://github.com/microsoft/global-copilot-summit/assets/3199282/474ff322-c72e-4041-a17c-b9772560abec)
 
